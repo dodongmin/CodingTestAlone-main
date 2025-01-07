@@ -1,3 +1,4 @@
+# 2309 일곱난쟁이
 num = []
 for i in range(9):
     num.append(int(input()))
